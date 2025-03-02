@@ -289,5 +289,6 @@ foreach(var update in grades)
 // return metot sonucunda bize bir değer döndürür ama void metotlar bir değer döndürmez
 
 
-// fifteen th requiment:
+// fifteen th requiment
 // oluşturduğumuz metotta () ler arasına değişken tanımlarız ve metotu çağırdığımızda bu değişkenlere değer gireriz böylelikle verdiğimiz değerleri kullanır metotta
+//cihan kurtbey
